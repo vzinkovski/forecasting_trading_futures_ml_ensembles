@@ -1,1 +1,7 @@
-# forecasting_trading_futures_ml_ensembles
+**Forecasting and Trading CME Soybean Futures with ML Ensembles**
+
+Placeholder text
+
+**Key themes covered:**
+- Placeholder text
+- More text here
