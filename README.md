@@ -20,4 +20,4 @@ Note that the code and model building process can equally be used to forecast re
 - Confusion matrix
 - Equity curves for long-only trading strategy vs. buy-and-hold strategy
 
-Please follow this [link](https://github.com/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb) to view the project.
+*Please follow this [link](https://github.com/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb) to view the project*
