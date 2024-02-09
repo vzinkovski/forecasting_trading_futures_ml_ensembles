@@ -22,4 +22,4 @@ Note that the code and model building process can equally be used to forecast re
 
 ---
 
-Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb) to view the full project.
+**Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb) to view the full project.**
