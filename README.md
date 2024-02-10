@@ -1,3 +1,7 @@
+**Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb) to view the full project.**
+
+---
+
 **Forecasting and Trading CME Soybean Futures with ML Ensembles**
 
 In this project we build an ensemble of supervised learning machine models to forecast price returns of CME soybean futures. In contrast to absolute price levels, returns are stationary and therefore lend themselves well to modeling. Our model aims to forecast whether the closing price tomorrow will be higher than today. Naturally, we could extend this methodology and build another model to forecast whether tomorrow's price will be lower than today. However, for brevity, this project will focus on the former. The code, however, is easily extendable to the latter scenario.
@@ -19,7 +23,3 @@ Note that the code and model building process can equally be used to forecast re
 - Dummy classifier as a benchmark
 - Confusion matrix
 - Equity curves for long-only trading strategy vs. buy-and-hold strategy
-
----
-
-**Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb) to view the full project.**
